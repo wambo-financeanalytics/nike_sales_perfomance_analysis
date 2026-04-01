@@ -33,7 +33,4 @@ To explore sales data and identify patterns in regional performance, product dem
 ---
 
 ## Outcome
--This analysis provides insights into sales behaviour and highlights areas of strong perfomance and potential improvement across regions and product categories
-
-## Outcome
 This analysis provides insights into sales behavior and highlights areas of strong performance and potential improvement across regions and product categories.
