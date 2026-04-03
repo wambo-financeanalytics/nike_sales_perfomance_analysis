@@ -13,10 +13,15 @@ To explore sales data and identify patterns in regional performance, product dem
 ## Tools Used
 - Microsoft Excel  
 - Data cleaning and organization  
-- Pivot tables and basic analysis  
+- Pivot tables and basic analysiS
+- 
+## Product and Sales Overview
+![Product and Sales Overview](product_sales_overview.png)
+
+## Sales Invoice Overview
+![Sales Invoice Overview](sales_invoice_overview.png)   
 
 ---
-
 ## Key Areas of Analysis
 - Regional sales performance  
 - Product category performance  
