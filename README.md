@@ -16,10 +16,10 @@ To explore sales data and identify patterns in regional performance, product dem
 - Pivot tables and basic analysiS
 - 
 ## Product and Sales Overview
-![Product & Sales Overview](product_sales_overview.png)
+![Product & Sales Overview](Product & Sales Overview.png)
 
 ## Sales Invoice Overview
-![Sales Invoice Overview](sales_invoice_overview.png)   
+![Sales Invoice Overview](Sales Invoice Overview.png)   
 
 ---
 ## Key Areas of Analysis
